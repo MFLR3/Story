@@ -1,1 +1,1 @@
-aliens 3 3 aliens 3
+Aliens 3
